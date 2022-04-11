@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elodiadiluggo@gmail.com
+	name = Elodia di Luggo di Avini
